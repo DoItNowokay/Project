@@ -17,7 +17,7 @@ PHA concentration in them.
 
 4.Make more data using virtual asteroids
 
-5.Make the ML Model which will give
+5.Choose the ML Model which will give
 maximum accuracy
 
 # Data Collection

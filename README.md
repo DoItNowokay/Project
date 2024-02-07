@@ -60,6 +60,18 @@ data.
 sensitive to the order of data points, which can be an issue with
 hierarchical clustering.
 
+
+# Results
+- We used SVM, Random Forest and XG Boost model for classification in all the domains and below are the best results
+
+## Domain 1 
+
+## Domain 2
+- Highest accuracy of classification of hazardous and non hazardous asteroid in Atiras and Atens is using XG Boost Model i.e 85.91%
+- Highest accuracy of classification of hazardous and non hazardous asteroid in Apollo is using XG Boost Model i.e 94.61%
+## Domain 3
+- Highest accuracy of classification of hazardous and non hazardous asteroid in Apollo group is achieved using XG Boost Model i.e 94.69%
+
 # REFERENCES
 1.Prediction of Orbital Parameters for Undiscovered Potentially Hazardous
 Asteroids by Vadym Pasko

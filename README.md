@@ -20,7 +20,7 @@ PHA concentration in them.
 5.Choose the ML Model which will give
 maximum accuracy
 
-# Data Collection
+<!-- # Data Collection
 We have collected data from the sources given
 below :
 
@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/shrutimehta/nasa-
 asteroids-classification
 
 https://www.kaggle.com/datasets/sakhawat18/aster
-oid-dataset
+oid-dataset -->
 
 # VIRTUAL ASTEROIDS
 We synthetically increase amount of data by generating virtual

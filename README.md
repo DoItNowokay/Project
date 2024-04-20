@@ -65,7 +65,9 @@ hierarchical clustering.
 - We used SVM, Random Forest and XG Boost model for classification in all the domains and below are the best results
 
 ## Domain 1 
-
+- Highest accuracy of classification of hazardous and non hazardous asteroid in Atiras and Atens is achieved using SVM Linear Kernel i.e 91.34%
+- Highest accuracy of classification of hazardous and non hazardous asteroid in Apollo is achieved using SVM RBF Kernel i.e 86.85%
+-  Highest accuracy of classification of hazardous and non hazardous asteroid in Amors is achieved using SVM RBF Kernel i.e 98.31%
 ## Domain 2
 - Highest accuracy of classification of hazardous and non hazardous asteroid in Atiras and Atens is using XG Boost Model i.e 85.91%
 - Highest accuracy of classification of hazardous and non hazardous asteroid in Apollo is using XG Boost Model i.e 94.61%
